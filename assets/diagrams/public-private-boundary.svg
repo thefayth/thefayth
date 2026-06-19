@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="820" viewBox="0 0 1400 820" role="img" aria-labelledby="title desc">
+  <title id="title">THEFAYTH public private boundary</title>
+  <desc id="desc">Public materials are separated from the private engine, protected materials, and blocked categories.</desc>
+  <rect width="1400" height="820" fill="#070707"/>
+  <text x="80" y="100" fill="#7cff9f" font-family="Consolas, monospace" font-size="44">PUBLIC / PRIVATE BOUNDARY</text>
+  <text x="80" y="140" fill="#bfffd0" font-family="Consolas, monospace" font-size="22">THEFAYTH explains the system without exposing the system.</text>
+  <rect x="80" y="210" width="520" height="420" rx="24" fill="#031107" stroke="#37ff6b" stroke-width="3"/>
+  <text x="340" y="270" fill="#e7ffed" font-family="Consolas, monospace" font-size="34" text-anchor="middle">PUBLIC</text>
+  <text x="130" y="330" fill="#bfffd0" font-family="Consolas, monospace" font-size="24">README and project brief</text>
+  <text x="130" y="375" fill="#bfffd0" font-family="Consolas, monospace" font-size="24">Selected visuals</text>
+  <text x="130" y="420" fill="#bfffd0" font-family="Consolas, monospace" font-size="24">Workflow diagrams</text>
+  <text x="130" y="465" fill="#bfffd0" font-family="Consolas, monospace" font-size="24">WordPress draft</text>
+  <text x="130" y="510" fill="#bfffd0" font-family="Consolas, monospace" font-size="24">Ownership policies</text>
+  <rect x="800" y="210" width="520" height="420" rx="24" fill="#160505" stroke="#ff8c8c" stroke-width="3"/>
+  <text x="1060" y="270" fill="#ffe4e4" font-family="Consolas, monospace" font-size="34" text-anchor="middle">PRIVATE</text>
+  <text x="850" y="330" fill="#ffd0d0" font-family="Consolas, monospace" font-size="24">Source code and prompts</text>
+  <text x="850" y="375" fill="#ffd0d0" font-family="Consolas, monospace" font-size="24">Credentials and secrets</text>
+  <text x="850" y="420" fill="#ffd0d0" font-family="Consolas, monospace" font-size="24">Deployment systems</text>
+  <text x="850" y="465" fill="#ffd0d0" font-family="Consolas, monospace" font-size="24">Private workflows and data</text>
+  <text x="850" y="510" fill="#ffd0d0" font-family="Consolas, monospace" font-size="24">Unpublished creative work</text>
+  <path d="M650 190 V660" stroke="#d7a46f" stroke-width="5" stroke-dasharray="16 14"/>
+  <text x="650" y="705" fill="#ffe6c8" font-family="Consolas, monospace" font-size="26" text-anchor="middle">human review gate</text>
+</svg>

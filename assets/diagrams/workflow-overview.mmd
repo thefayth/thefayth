@@ -1,0 +1,14 @@
+flowchart LR
+  visitor[Visitor] --> github[GitHub public surface]
+  visitor --> site[thefayth.net]
+  github --> brief[Project brief]
+  github --> visuals[Public visuals]
+  github --> diagrams[Workflow diagrams]
+  site --> forum[Forum rooms]
+  site --> archive[Archive and projects]
+  forum --> review[Human review]
+  archive --> review
+  review --> outputs[Public pages and threads]
+  faith[FaithCheltenham.com] --> site
+  private[Private engine] -. protected boundary .-> review
+  private -. excluded .-> secrets[Secrets, prompts, infrastructure]

@@ -1,0 +1,10 @@
+flowchart TB
+  public[Public repository and website]
+  review[Human review layer]
+  private[Private engine]
+  blocked[Protected materials]
+  public --> review
+  review --> public
+  private -. approved summaries only .-> review
+  private --> blocked
+  blocked -. never publish .-> blocked
