@@ -22,6 +22,10 @@ Repository URL: https://github.com/thefayth/thefayth
 - [x] WordPress draft exists.
 - [x] Privacy review exists.
 - [x] Repository slug checked with GitHub CLI.
+- [x] GitHub repository created with GitHub CLI.
+- [x] Public repository tree verified with GitHub CLI.
+- [x] Repository topics applied with GitHub CLI.
+- [x] Secret-pattern scan returned no hits in the export folder.
 - [x] Private engine excluded.
 - [x] Launch receipt created.
 - [ ] Faith final review.

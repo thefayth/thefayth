@@ -10,6 +10,14 @@ Version status: v1 public repository. `thefayth/thefayth` was available when che
 
 Repository URL: https://github.com/thefayth/thefayth
 
+Publication verified: 2026-06-18 22:25 America/Los_Angeles (2026-06-19 UTC)
+
+Verified public tree commit before this receipt update: `72d31a8c1b2d6c2daa2a625e5c5d1cffcc90c40b`
+
+GitHub CLI path: repository created and updated with `gh repo create`, `gh repo edit`, and `gh api` with proxy variables cleared for each GitHub operation.
+
+Repository topics: `thefayth`, `faith-cheltenham`, `memory-archive`, `public-private-boundary`, `forum`, `world-building`, `protected-public-surface`
+
 ## Files Created
 
 - README.md
@@ -63,7 +71,7 @@ Draft page and metadata created under `wordpress/`. Nothing was published by thi
 
 ## Privacy Status
 
-READY AFTER FAITH REVIEW. The export is public-safe by construction, but final publication should still receive Faith's review because the visuals and project framing represent a public brand surface.
+READY AFTER FAITH REVIEW. The export is public-safe by construction, and a local secret-pattern scan returned no hits. Final publication should still receive Faith's review because the visuals and project framing represent a public brand surface.
 
 ## What Remains Private
 

@@ -14,6 +14,12 @@ Live public URL: https://thefayth.net
 
 Faith ecosystem URL: https://faithcheltenham.com
 
+Publication verified: 2026-06-18 22:25 America/Los_Angeles (2026-06-19 UTC)
+
+Verified public tree commit before final receipt update: `72d31a8c1b2d6c2daa2a625e5c5d1cffcc90c40b`
+
+Repository topics: `thefayth`, `faith-cheltenham`, `memory-archive`, `public-private-boundary`, `forum`, `world-building`, `protected-public-surface`
+
 ## Public Status
 
 READY AFTER FAITH REVIEW.
