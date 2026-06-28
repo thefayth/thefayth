@@ -61,6 +61,7 @@ I build local-first AI systems that make public websites, GitHub repos, product 
 - Work With Faith: [https://thefayth.github.io/faith-ai-systems-portfolio/work-with-faith.html](https://thefayth.github.io/faith-ai-systems-portfolio/work-with-faith.html)
 - Quote-first offers: [https://thefayth.github.io/faith-ai-systems-portfolio/offers.html](https://thefayth.github.io/faith-ai-systems-portfolio/offers.html)
 - Opportunity router: [https://thefayth.github.io/faith-ai-systems-portfolio/opportunity-router.html](https://thefayth.github.io/faith-ai-systems-portfolio/opportunity-router.html)
+- Buyer trust matrix: [https://thefayth.github.io/faith-ai-systems-portfolio/buyer-trust-matrix.html](https://thefayth.github.io/faith-ai-systems-portfolio/buyer-trust-matrix.html)
 - Pilot sprint menu: [https://thefayth.github.io/faith-ai-systems-portfolio/pilot-sprint-menu.html](https://thefayth.github.io/faith-ai-systems-portfolio/pilot-sprint-menu.html)
 - Contact: [https://faithcheltenham.com/contact/](https://faithcheltenham.com/contact/)
 
