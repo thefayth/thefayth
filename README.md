@@ -50,6 +50,36 @@ This repository includes:
 
 The source code, WordPress deployment, credentials, prompts, private workflows, customer or family information, unpublished creative work, legal/admin material, medical or benefits records, and operational infrastructure are not included.
 
+<!-- FAITH-AI-SYSTEMS-START -->
+## Faith AI Systems Portfolio
+
+I build local-first AI systems that make public websites, GitHub repos, product proof, creative operations, and provenance workflows more credible without exposing private engine work.
+
+### Work With Me
+
+- Public AI systems portfolio: [https://thefayth.github.io/faith-ai-systems-portfolio/](https://thefayth.github.io/faith-ai-systems-portfolio/)
+- Work With Faith: [https://thefayth.github.io/faith-ai-systems-portfolio/work-with-faith.html](https://thefayth.github.io/faith-ai-systems-portfolio/work-with-faith.html)
+- Quote-first offers: [https://thefayth.github.io/faith-ai-systems-portfolio/offers.html](https://thefayth.github.io/faith-ai-systems-portfolio/offers.html)
+- Opportunity router: [https://thefayth.github.io/faith-ai-systems-portfolio/opportunity-router.html](https://thefayth.github.io/faith-ai-systems-portfolio/opportunity-router.html)
+- Pilot sprint menu: [https://thefayth.github.io/faith-ai-systems-portfolio/pilot-sprint-menu.html](https://thefayth.github.io/faith-ai-systems-portfolio/pilot-sprint-menu.html)
+- Contact: [https://faithcheltenham.com/contact/](https://faithcheltenham.com/contact/)
+
+### Public Proof And Products
+
+- Public proof index: [https://thefayth.github.io/faith-ai-systems-portfolio/public-proof-index.html](https://thefayth.github.io/faith-ai-systems-portfolio/public-proof-index.html)
+- Prospect packet: [https://thefayth.github.io/faith-ai-systems-portfolio/prospect-packet.html](https://thefayth.github.io/faith-ai-systems-portfolio/prospect-packet.html)
+- TheFAYTH Visual Empire: [https://github.com/thefayth/thefayth-visual-empire](https://github.com/thefayth/thefayth-visual-empire)
+- TheFAYTH File Type: [https://github.com/thefayth/thefayth-file-type](https://github.com/thefayth/thefayth-file-type)
+- Fantasia: [https://github.com/thefayth/fantas1a](https://github.com/thefayth/fantas1a)
+
+### Licensing, Partners, And Referrals
+
+- Licensing and partnership paths: [https://thefayth.github.io/faith-ai-systems-portfolio/licensing-and-partnership-paths.html](https://thefayth.github.io/faith-ai-systems-portfolio/licensing-and-partnership-paths.html)
+- Share/send kit: [https://thefayth.github.io/faith-ai-systems-portfolio/share-send-kit.html](https://thefayth.github.io/faith-ai-systems-portfolio/share-send-kit.html)
+
+Public surfaces show proof, offers, and trust boundaries. Private engines, prompts, credentials, customer data, rollback receipts, signing keys, and protected operational workflows stay private.
+<!-- FAITH-AI-SYSTEMS-END -->
+
 ## Current Status
 
 Public surface package: ready for review.
