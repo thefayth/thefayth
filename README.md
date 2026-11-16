@@ -4,7 +4,7 @@
 
 Faithapedia in three dimensions. Bacon gives it its math; Cerebro gives it its architecture.
 
-[![Faithapedia Galaxy — the video](https://thefayth.net/wp-content/uploads/github/faithapedia-galaxy-loop.gif)](https://thefayth.net/wp-content/uploads/github/faithapedia-galaxy.mp4)
+[![Faithapedia Galaxy — the video](https://thefayth.net/wp-content/uploads/github/faithapedia-galaxy-loop-sm.gif)](https://thefayth.net/wp-content/uploads/github/faithapedia-galaxy.mp4)
 
 *▶ The Galaxy, rotating — the loop above is the Galaxy segment of the video. Click it for the full MP4 (11 sec, with title and credit cards).*
 
