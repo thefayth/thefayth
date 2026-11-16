@@ -1,108 +1,36 @@
-# THEFAYTH
+# FAITHAPEDIA · GALAXY
 
-![THEFAYTH hero](assets/hero/hero-image.png)
+**Faith Cheltenham** — XXYYZZ Society LLC, Los Angeles. Online since 1984.
 
-THEFAYTH is a protected public project surface for a memory-centered forum, archive, and project gateway. It presents the public face of Faith's world-building, recall work, multilingual discussion, and AI-assisted forum lanes while keeping the private engine, operational workflows, prompts, credentials, and unpublished materials out of the repository.
+Faithapedia in three dimensions. Bacon gives it its math; Cerebro gives it its architecture.
 
-This repository is a protected public project surface. It is not the full source code, operational system, private workflow, or data room.
+[![Faithapedia Galaxy — the video](https://thefayth.net/wp-content/uploads/github/faithapedia-galaxy-loop.webp)](https://thefayth.net/wp-content/uploads/github/faithapedia-galaxy.mp4)
 
-![GitHub banner](assets/banners/github-banner.png)
+*▶ The Galaxy, rotating — the loop above is the Galaxy segment of the video. Click it for the full MP4 (11 sec, with title and credit cards).*
 
-## Why It Matters
+`1,426 neurons` · `2,555 synapses` · `Faith — the center` · `sealed — gold, existence level only`
 
-THEFAYTH gives memory work a public architecture: rooms, threads, source-backed discussion, project spokes, and a boundary-aware relationship between a public website and protected private systems. It is designed for stories that need context, provenance, language nuance, and human review instead of flattened content feeds.
+I'm **Faith Cheltenham** — online since 1984. Faithapedia is my personal knowledge graph: a Wikipedia of people, not of things — everything I do, everyone I work with, and what they did, standing on publicly sourced documents. The full graph is a private master record behind my gate at [thefayth.net/faithapedia](https://thefayth.net/faithapedia/); this video is its public window.
 
-## Who It Is For
+## Selected systems
 
-- Readers and collaborators who need a clear public overview of THEFAYTH.
-- Visitors coming from FaithCheltenham.com or thefayth.net.
-- Supporters who need to understand the public mission without accessing private systems.
-- Future contributors who need boundaries before asking for source, strategy, or operational access.
+- **[faith-ai-systems-portfolio](https://github.com/thefayth/faith-ai-systems-portfolio)** — Faith Cheltenham AI systems portfolio, quote-first offers, and project intake.
+- **[fantas1a](https://github.com/thefayth/fantas1a)** — F@ntas1@: local-first AI operations desktop for safe creative automation.
+- **[thefayth-file-type](https://github.com/thefayth/thefayth-file-type)** — The .fayth proof, privacy, and local receipt file type.
+- **[popp1ns](https://github.com/thefayth/popp1ns)** — Source-backed cinematic project atlas and collaboration front door.
+- **[faithai-global-access](https://github.com/thefayth/faithai-global-access)** — FAITHAI low-bandwidth ASCII guidance, learning, and community access.
+- **[princess-of-pricing](https://github.com/thefayth/princess-of-pricing)** — Evidence-backed savings wallet with three selectable Kingdom themes.
 
-## How It Works
+## Work with me
 
-THEFAYTH has a public surface and a private engine.
+- Public AI systems portfolio: https://thefayth.github.io/faith-ai-systems-portfolio/
+- Work with Faith: https://thefayth.github.io/faith-ai-systems-portfolio/work-with-faith.html
+- Quote-first offers: https://thefayth.github.io/faith-ai-systems-portfolio/offers.html
 
-```mermaid
-flowchart LR
-  visitor[Visitor] --> publicSite[thefayth.net]
-  publicSite --> rooms[Forum rooms]
-  publicSite --> archive[Archive and project pages]
-  rooms --> review[Human review]
-  review --> publicOutputs[Public threads and pages]
-  privateEngine[Private engine] -. protected .-> review
-  privateEngine -. not released .-> prompts[Prompts, workflows, credentials]
-```
+Consultation is paid-first: $100 on [aixyz.tech](https://aixyz.tech), 2–7 day turnaround once assets are in hand.
 
-![Workflow overview](assets/diagrams/workflow-overview.svg)
+## Boundary
 
-## Public Materials
-
-This repository includes:
-
-- Project brief, status, roadmap, FAQ, and public-private boundary notes.
-- Workflow diagrams for the forum/archive/review model.
-- WordPress page and metadata drafts for FaithCheltenham.com.
-- Public-safe visual assets selected from the project folder.
-- Ownership, trademark, security, and commercial use policies.
-
-## What Remains Private
-
-The source code, WordPress deployment, credentials, prompts, private workflows, customer or family information, unpublished creative work, legal/admin material, medical or benefits records, and operational infrastructure are not included.
-
-<!-- FAITH-AI-SYSTEMS-START -->
-## Faith AI Systems Portfolio
-
-I build local-first AI systems that make public websites, GitHub repos, product proof, creative operations, and provenance workflows more credible without exposing private engine work.
-
-### Work With Me
-
-- Public AI systems portfolio: [https://thefayth.github.io/faith-ai-systems-portfolio/](https://thefayth.github.io/faith-ai-systems-portfolio/)
-- Work With Faith: [https://thefayth.github.io/faith-ai-systems-portfolio/work-with-faith.html](https://thefayth.github.io/faith-ai-systems-portfolio/work-with-faith.html)
-- Quote-first offers: [https://thefayth.github.io/faith-ai-systems-portfolio/offers.html](https://thefayth.github.io/faith-ai-systems-portfolio/offers.html)
-- Opportunity router: [https://thefayth.github.io/faith-ai-systems-portfolio/opportunity-router.html](https://thefayth.github.io/faith-ai-systems-portfolio/opportunity-router.html)
-- Buyer trust matrix: [https://thefayth.github.io/faith-ai-systems-portfolio/buyer-trust-matrix.html](https://thefayth.github.io/faith-ai-systems-portfolio/buyer-trust-matrix.html)
-- Pilot sprint menu: [https://thefayth.github.io/faith-ai-systems-portfolio/pilot-sprint-menu.html](https://thefayth.github.io/faith-ai-systems-portfolio/pilot-sprint-menu.html)
-- Contact: [https://faithcheltenham.com/contact/](https://faithcheltenham.com/contact/)
-
-### Public Proof And Products
-
-- Public proof index: [https://thefayth.github.io/faith-ai-systems-portfolio/public-proof-index.html](https://thefayth.github.io/faith-ai-systems-portfolio/public-proof-index.html)
-- Prospect packet: [https://thefayth.github.io/faith-ai-systems-portfolio/prospect-packet.html](https://thefayth.github.io/faith-ai-systems-portfolio/prospect-packet.html)
-- TheFAYTH Visual Empire: [https://github.com/thefayth/thefayth-visual-empire](https://github.com/thefayth/thefayth-visual-empire)
-- TheFAYTH File Type: [https://github.com/thefayth/thefayth-file-type](https://github.com/thefayth/thefayth-file-type)
-- Fantasia: [https://github.com/thefayth/fantas1a](https://github.com/thefayth/fantas1a)
-
-### Licensing, Partners, And Referrals
-
-- Licensing and partnership paths: [https://thefayth.github.io/faith-ai-systems-portfolio/licensing-and-partnership-paths.html](https://thefayth.github.io/faith-ai-systems-portfolio/licensing-and-partnership-paths.html)
-- Share/send kit: [https://thefayth.github.io/faith-ai-systems-portfolio/share-send-kit.html](https://thefayth.github.io/faith-ai-systems-portfolio/share-send-kit.html)
-
-Public surfaces show proof, offers, and trust boundaries. Private engines, prompts, credentials, customer data, rollback receipts, signing keys, and protected operational workflows stay private.
-<!-- FAITH-AI-SYSTEMS-END -->
-
-## Current Status
-
-Public surface package: ready for review.
-
-Live public site: https://thefayth.net
-
-Faith ecosystem connection: https://faithcheltenham.com
-
-## Visual System
-
-![Social card](assets/social/social-card.png)
-
-The selected visual language is ethereal, archival, strategic, and human: memory, signal, world-building. It uses existing project visuals instead of generic templates.
-
-## Ownership
+Public surfaces show proof, offers, and trust boundaries. Private engines, prompts, credentials, customer data, and protected operational workflows stay private.
 
 All rights reserved. No public license is granted. No redistribution, commercial reuse, training use, or source-code use is permitted without written permission from Faith Cheltenham.
-
-## Learn More
-
-- Public site: https://thefayth.net
-- FaithCheltenham.com: https://faithcheltenham.com
-- WordPress draft: [wordpress/page.md](wordpress/page.md)
-- Project brief: [docs/PROJECT_BRIEF.md](docs/PROJECT_BRIEF.md)
-- Boundary notes: [docs/PUBLIC_PRIVATE_BOUNDARY.md](docs/PUBLIC_PRIVATE_BOUNDARY.md)
